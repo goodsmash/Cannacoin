@@ -1,9 +1,10 @@
-Building CasinoCoin
+Building CannaCoin
 
-See doc/readme-qt.rst for instructions on building CasinoCoin-QT,
+I Googled a ton of stuff and spent too long on the PC using too many virtual hosts...So have fun.
+See doc/readme-qt.rst for instructions on building CannaCoin-QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of CasinoCoin.
+implementation of CannaCoin.
 
-See doc/build-*.txt for instructions on building casinocoind,
+See doc/build-*.txt for instructions on building cannacoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of CasinoCoin.
+implementation of CannaCoin.
