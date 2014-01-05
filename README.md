@@ -1,28 +1,29 @@
+<p align="center"><img src="" /></p>
 
-<p align="center"><img src="https://raw.github.com/transcoder/CasinoCoin/master/src/qt/res/images/logo.png" /></p>
+CannaCoin: An open source, peer-to-peer Internet currency specifically designed for the medical cannabis industry.
 
-CasinoCoin: An open source, peer-to-peer Internet currency specifically designed for online casino gaming.
+<p align="center"><img src="" /></p>
 
-<p align="center"><img src="https://raw.github.com/transcoder/CasinoCoin/master/src/qt/res/images/casinocoin-coin.png" /></p>
+Since California passed an initiative to allow medical cannabis in 1996, multiple states have passed similar initiatives. We now have full blown legalization! Colorado voters' approval in now in effect after amendeding the state’s constitution to allow the retail sale of recreational cannabis.
 
-Since April 15th, 2011, a day dubbed as 'Black Friday' by the online gaming community, it has become increasingly difficult to deposit funds for online casino gaming due to deposit restrictions between centralized financial institutions and online casino platforms. Avid online players have since not been able to enjoy the same conveniences and the ease of accessibility that they were once afforded. Those days are no more with the advent of CasinoCoin.
+It has become increasingly difficult to deposit funds for cannabis businesses due to deposit restrictions by centralized financial institutions. Those days are no more with the advent of CannaCoin.
 
-As a decentralized crypto currency, CasinoCoin offers the solution to help fill this void. Consider CasinoCoin as a universal casino chip that is easily transferable between online casino gaming applications, exchanges and peers. Imagine using CasinoCoin at your favorite online poker sites, then transferring your winnings over to your favorite online casino to play Blackjack. How about a friendly wager over a game of chess? This is all possible with CasinoCoin.
+As a decentralized crypto currency, CannaCoin offers the solution to help fill this void. Consider CannaCoin as a universal payment that is easily transferable between cannabis business owners throughout the industry. Imagine using CannaCoin at your favorite dispensary as a patient! How about a business that needs marketing assistance in the industry? 
 
-CasinoCoin is an open source, peer-to-peer Internet currency specifically designed for online casino gaming. It is a platform independent crypto currency that is easily transferable between gaming applications, exchanges and peers. CasinoCoin can simply be summed up as universal casino chips.
+CannaCoin is an open source, peer-to-peer Internet currency specifically designed for the emerging cannabis industry. It is a platform independent crypto currency that is easily transferable between the entire industry. CannaCoin can simply be summed up as the future of cannabis.
 
-By itself, CasinoCoin has no value. Within casino gaming applications, it can be used to play games of skill and chance. On the exchanges, CasinoCoin is worth what the market values it at and it can be bought, sold and exchanged to fiat currencies such as US dollars or exchanged to other crypto currencies such as Bitcoin.
+By itself, CannaCoin has no value. On the exchanges, CannaCoin is worth what the market values it at and it can be bought, sold and exchanged to fiat currencies such as US dollars or exchanged to other crypto currencies such as Bitcoin.
 
-CasinoCoin is based on the strengths of crypto currency protocols such as Bitcoin, Litecoin, Feathercoin and digitalcoin, giving it a second movers advantage. It leverages the security of Bitcoin, the accessibility of Litecoin, the abundance of Feathercoin, and the speed of digitalcoin. While CasinoCoin can be used as a general purpose currency, it serves a specific purpose and is marketed exclusively for online casino gaming and rewards redemption.
+CannaCoin is based on the strengths of crypto currency protocols such as Bitcoin, Litecoin, Feathercoin and s ome of digitalcoin, giving it a second movers advantage. It leverages the security of Bitcoin, the accessibility of Litecoin, the abundance of Feathercoin, and the speed of digitalcoin. While CannaCoin can be used as a general purpose currency, it serves a specific purpose and is marketed exclusively for the cannabis industry for business purposes.
 
 
 Mission Statement
 =================
 
-The goal of CasinoCoin is to help make online casino gaming accessible to all by removing barriers. The success and strength of CasinoCoin rely on three main pillars: active and talented developers, fostering community, and trust through transparency. 
+The goal of CannaCoin is to help make the cannabis industry transition into the cryptocurrency market. The success and strength of CannaCoin rely on active and talented developers, strong community, and trust through transparency. 
 
 
-Get active! Join the CasinoCoin community by visiting the links below.
+Get active! Join the CannaCoin community by visiting the links below.
 
 
 
@@ -30,22 +31,21 @@ Technical Specifications
 ========================
 
  - scrypt proof-of-work algorithm
- - 30 second block time targets
- - ~336 million total coins
+ - 30 second block time targets (possible 60 second blocks to be determined)
+ - ~500 million total coins
  - 720 blocks to retarget difficulty
  - 50 coins per block, halves every 3,153,600 blocks (~3 years)
- - fair launch, absolutely no premine
+ - fair launch, the only premine would be to secure the longevity of this coin that will not exceed 1%, all coins would be stored to promote the coin.
 
 
 Links
 ======
 
-Website: http://casinoco.in
+Website: http://cannafirm.com
 
 
-Forum: http://forum.casinoco.in
 
 
-Source: https://github.com/transcoder/CasinoCoin
+Source: https://github.com/goodsmash/cannacoin
 
 
